@@ -17,4 +17,4 @@ ou
 
 0/89 Rotas de ônibus
 
-0/1765 Paradas de ônibus
+1789/1789 Paradas de ônibus
