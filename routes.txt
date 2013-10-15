@@ -72,7 +72,6 @@ I101,I101,"Bairro das Indústrias/Mandacaru",3
 7120,7120,"Mussumago",3
 I004,I004,"Valentina/Praia do Sol",3
 I008,I008,"Valentina / Mangabeira",3
-I009,I009,"Boa Esperança / Colinas do Sul II",3
 I012,I012,"Cidade Verde / Segunda Etapa",3
 101,101,"Grotão",3
 102,102,"Costa e Silva",3
