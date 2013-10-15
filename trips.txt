@@ -1,94 +1,93 @@
 route_id,service_id,trip_id,trip_headsign
-002,onibus,002,Roger
-103,onibus,103,Gramame
-105,onibus,105,Cidade dos Funcionários
-109,onibus,109,Rua do Rio
-113,onibus,113,Gramame
-116,onibus,116,Colinas do Sul
-2501,onibus,2501,Colinas do Sul - CEHAP
-1510,onibus,1510,Circular
-5110,onibus,5110,Circular
-A002,onibus,A002,Alto Roger
-I005,onibus,I005,Integração Colinas
-I009,onibus,I009,Boa Esperança/Colinas do Sul II
-503,onibus,503,Treze de Maio
-504,onibus,504,Mandacaru
-505,onibus,505,Bairro dos Ipês
-506,onibus,506,Bairro dos Estados
-516,onibus,516,Ilha do Bispo via Epitácio
-602,onibus,602,Ilha do Bispo
-604,onibus,604,Bairro dos Ipês via Ayrton Senna
-1001,onibus,1001,Bairro das Indústrias - Mandacaru
-003,onibus,003,Jaguaribe
-401,onibus,401,Altiplano
-507,onibus,507,Cabo Branco
-509,onibus,509,João Agripino
-512,onibus,512,Bairro São José
-520,onibus,520,Penha Altiplano
-507A,onibus,507A,Cabo Branco/Penha/Jacarapé
-507B,onibus,507B,Cabo Branco
-I007,onibus,I007,Penha/Cabo Branco
-201,onibus,201,Ceasa
-202,onibus,202,Ernesto Geisel
-203,onibus,203,Mangabeira
-204,onibus,204,Cristo
-207,onibus,207,Penha
-208,onibus,208,Cristo-Vale das Palmeiras
-209,onibus,209,Cidade Verde via Rangel
-301,onibus,301,Mangabeira/ Pedro II
-302,onibus,302,Cidade Verde
-303,onibus,303,Mangabeira/ Pedro II
-304,onibus,304,Castelo Branco /Pedro II
-500,onibus,500,Tambaú
-510,onibus,510,Tambaú via Tamandaré
-511,onibus,511,Tambaú Rui Carneiro
-514,onibus,514,Mangabeira VII
-517,onibus,517,Castelo Branco
-601,onibus,601,Bessa
-1500,onibus,1500,Circular
-2307,onibus,2307,Penha Rangel / Pedro II
-2514,onibus,2514,Mangabeira
-3200,onibus,3200,Circular
-3207,onibus,3207,Penha Pedro II / Rangel
-3510,onibus,3510,Bancários
-5100,onibus,5100,Circular
-5204,onibus,5204,Cristo Shopping
-5206,onibus,5206,Mangabeira
-5310,onibus,5310,Bancários
-I006,onibus,I006,Anatólia
-104,onibus,104,Bairro das Indústrias
-108,onibus,108,Alto do Mateus
-110,onibus,110,Jardim Planalto
-115,onibus,115,Distrito
-118,onibus,118,Paratibe
-120,onibus,120,Mussumagro /Parque do Sol
-701,onibus,701,Alto do Mateus- Acesso Oeste
-I101,onibus,I101,Bairro das Indústrias/Mandacaru
-1502,onibus,1502,Geisel / Alto do Mateus
-1519,onibus,1519,Valentina/Cruz das Armas
-2300,onibus,2300,Circular
-5120,onibus,5120,Valentina/Epitácio
-7118,onibus,7118,Mussumago
-7120,onibus,7120,Mussumago
-I004,onibus,I004,Valentina/Praia do Sol
-I008,onibus,I008,Valentina / Mangabeira
-I009,onibus,I009,Boa Esperança / Colinas do Sul II
-I012,onibus,I012,Cidade Verde / Segunda Etapa
-101,onibus,101,Grotão
-102,onibus,102,Costa e Silva
-106,onibus,106,Geisel via Cruz das Armas
-107,onibus,107,Jose Américo
-114,onibus,114,Grotão via Funcionários
-402,onibus,402,Torre
-513,onibus,513,Tambaú/Bessa
-521,onibus,521,Bessa
-600,onibus,600,Bessa Shopping
-603,onibus,603,Bessa
-2515,onibus,2515,Mangabeira
-3507,onibus,3507,Cidade Verde
-5210,onibus,5210,Mangabeira
-5307,onibus,5307,Cidade Verde
-5600,onibus,5600,Mangabeira - Shopping
-5603,onibus,5603,Mangabeira VII
-5605,onibus,5605,Mangabeira Shopping
-A101,onibus,A101,Grotão João Paulo II
+002,onibus,002,"Roger"
+103,onibus,103,"Gramame"
+105,onibus,105,"Cidade dos Funcionários"
+109,onibus,109,"Rua do Rio"
+113,onibus,113,"Gramame"
+116,onibus,116,"Colinas do Sul"
+2501,onibus,2501,"Colinas do Sul - CEHAP"
+1510,onibus,1510,"Circular"
+5110,onibus,5110,"Circular"
+A002,onibus,A002,"Alto Roger"
+I005,onibus,I005,"Integração Colinas"
+I009,onibus,I009,"Boa Esperança/Colinas do Sul II"
+503,onibus,503,"Treze de Maio"
+504,onibus,504,"Mandacaru"
+505,onibus,505,""Bairro dos Ipês""
+506,onibus,506,"Bairro dos Estados"
+516,onibus,516,"Ilha do Bispo via Epitácio"
+602,onibus,602,"Ilha do Bispo"
+604,onibus,604,"Bairro dos Ipês via Ayrton Senna"
+1001,onibus,1001,"Bairro das Indústrias - Mandacaru"
+003,onibus,003,"Jaguaribe"
+401,onibus,401,"Altiplano"
+507,onibus,507,"Cabo Branco"
+509,onibus,509,"João Agripino"
+512,onibus,512,"Bairro São José"
+520,onibus,520,"Penha Altiplano"
+507A,onibus,507A,"Cabo Branco/Penha/Jacarapé"
+507B,onibus,507B,"Cabo Branco"
+I007,onibus,I007,"Penha/Cabo Branco"
+201,onibus,201,"Ceasa"
+202,onibus,202,"Ernesto Geisel"
+203,onibus,203,"Mangabeira"
+204,onibus,204,"Cristo"
+207,onibus,207,"Penha"
+208,onibus,208,"Cristo-Vale das Palmeiras"
+209,onibus,209,"Cidade Verde via Rangel"
+301,onibus,301,"Mangabeira/ Pedro II"
+302,onibus,302,"Cidade Verde"
+303,onibus,303,"Mangabeira/ Pedro II"
+304,onibus,304,"Castelo Branco /Pedro II"
+500,onibus,500,"Tambaú"
+510,onibus,510,"Tambaú via Tamandaré"
+511,onibus,511,"Tambaú Rui Carneiro"
+514,onibus,514,"Mangabeira VII"
+517,onibus,517,"Castelo Branco"
+601,onibus,601,"Bessa"
+1500,onibus,1500,"Circular"
+2307,onibus,2307,"Penha Rangel / Pedro II"
+2514,onibus,2514,"Mangabeira"
+3200,onibus,3200,"Circular"
+3207,onibus,3207,"Penha Pedro II / Rangel"
+3510,onibus,3510,"Bancários"
+5100,onibus,5100,"Circular"
+5204,onibus,5204,"Cristo Shopping"
+5206,onibus,5206,"Mangabeira"
+5310,onibus,5310,"Bancários"
+I006,onibus,I006,"Anatólia"
+104,onibus,104,"Bairro das Indústrias"
+108,onibus,108,"Alto do Mateus"
+110,onibus,110,"Jardim Planalto"
+115,onibus,115,"Distrito"
+118,onibus,118,"Paratibe"
+120,onibus,120,"Mussumagro /Parque do Sol"
+701,onibus,701,"Alto do Mateus- Acesso Oeste"
+I101,onibus,I101,"Bairro das Indústrias/Mandacaru"
+1502,onibus,1502,"Geisel / Alto do Mateus"
+1519,onibus,1519,"Valentina/Cruz das Armas"
+2300,onibus,2300,"Circular"
+5120,onibus,5120,"Valentina/Epitácio"
+7118,onibus,7118,"Mussumago"
+7120,onibus,7120,"Mussumago"
+I004,onibus,I004,"Valentina/Praia do Sol"
+I008,onibus,I008,"Valentina / Mangabeira"
+I012,onibus,I012,"Cidade Verde / Segunda Etapa"
+101,onibus,101,"Grotão"
+102,onibus,102,"Costa e Silva"
+106,onibus,106,"Geisel via Cruz das Armas"
+107,onibus,107,"Jose Américo"
+114,onibus,114,"Grotão via Funcionários"
+402,onibus,402,"Torre"
+513,onibus,513,"Tambaú/Bessa"
+521,onibus,521,"Bessa"
+600,onibus,600,"Bessa Shopping"
+603,onibus,603,"Bessa"
+2515,onibus,2515,"Mangabeira"
+3507,onibus,3507,"Cidade Verde"
+5210,onibus,5210,"Mangabeira"
+5307,onibus,5307,"Cidade Verde"
+5600,onibus,5600,"Mangabeira - Shopping"
+5603,onibus,5603,"Mangabeira VII"
+5605,onibus,5605,"Mangabeira Shopping"
+A101,onibus,A101,"Grotão João Paulo II"
