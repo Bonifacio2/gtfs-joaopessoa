@@ -1,94 +1,94 @@
 route_id,route_short_name,route_long_name,route_type
-002,002,Roger,3
-103,103,Gramame,3
-105,105,Cidade dos Funcionários,3
-109,109,Rua do Rio,3
-113,113,Gramame,3
-116,116,Colinas do Sul,3
-2501,2501,Colinas do Sul - CEHAP,3
-1510,1510,Circular,3
-5110,5110,Circular,3
-A002,A002,Alto Roger,3
-I005,I005,Integração Colinas,3
-I009,I009,Boa Esperança/Colinas do Sul II,3
-503,503,Treze de Maio,3
-504,504,Mandacaru,3
-505,505,Bairro dos Ipês,3
-506,506,Bairro dos Estados,3
-516,516,Ilha do Bispo via Epitácio,3
-602,602,Ilha do Bispo,3
-604,604,Bairro dos Ipês via Ayrton Senna,3
-1001,1001,Bairro das Indústrias - Mandacaru,3
-003,003,Jaguaribe,3
-401,401,Altiplano,3
-507,507,Cabo Branco,3
-509,509,João Agripino,3
-512,512,Bairro São José,3
-520,520,Penha Altiplano,3
-507A,507A,Cabo Branco/Penha/Jacarapé,3
-507B,507B,Cabo Branco,3
-I007,I007,Penha/Cabo Branco,3
-201,201,Ceasa,3
-202,202,Ernesto Geisel,3
-203,203,Mangabeira,3
-204,204,Cristo,3
-207,207,Penha,3
-208,208,Cristo-Vale das Palmeiras,3
-209,209,Cidade Verde via Rangel,3
-301,301,Mangabeira/ Pedro II,3
-302,302,Cidade Verde,3
-303,303,Mangabeira/ Pedro II,3
-304,304,Castelo Branco /Pedro II,3
-500,500,Tambaú,3
-510,510,Tambaú via Tamandaré,3
-511,511,Tambaú Rui Carneiro,3
-514,514,Mangabeira VII,3
-517,517,Castelo Branco,3
-601,601,Bessa,3
-1500,1500,Circular,3
-2307,2307,Penha Rangel / Pedro II,3
-2514,2514,Mangabeira,3
-3200,3200,Circular,3
-3207,3207,Penha Pedro II / Rangel,3
-3510,3510,Bancários,3
-5100,5100,Circular,3
-5204,5204,Cristo Shopping,3
-5206,5206,Mangabeira,3
-5310,5310,Bancários,3
-I006,I006,Anatólia,3
-104,104,Bairro das Indústrias,3
-108,108,Alto do Mateus,3
-110,110,Jardim Planalto,3
-115,115,Distrito,3
-118,118,Paratibe,3
-120,120,Mussumagro /Parque do Sol,3
-701,701,Alto do Mateus- Acesso Oeste,3
-I101,I101,Bairro das Indústrias/Mandacaru,3
-1502,1502,Geisel / Alto do Mateus,3
-1519,1519,Valentina/Cruz das Armas,3
-2300,2300,Circular,3
-5120,5120,Valentina/Epitácio,3
-7118,7118,Mussumago,3
-7120,7120,Mussumago,3
-I004,I004,Valentina/Praia do Sol,3
-I008,I008,Valentina / Mangabeira,3
-I009,I009,Boa Esperança / Colinas do Sul II,3
-I012,I012,Cidade Verde / Segunda Etapa,3
-101,101,Grotão,3
-102,102,Costa e Silva,3
-106,106,Geisel via Cruz das Armas,3
-107,107,Jose Américo,3
-114,114,Grotão via Funcionários,3
-402,402,Torre,3
-513,513,Tambaú/Bessa,3
-521,521,Bessa,3
-600,600,Bessa Shopping,3
-603,603,Bessa,3
-2515,2515,Mangabeira,3
-3507,3507,Cidade Verde,3
-5210,5210,Mangabeira,3
-5307,5307,Cidade Verde,3
-5600,5600,Mangabeira - Shopping,3
-5603,5603,Mangabeira VII,3
-5605,5605,Mangabeira Shopping,3
-A101,A101,Grotão João Paulo II,3
+002,002,"Roger",3
+103,103,"Gramame",3
+105,105,"Cidade dos Funcionários",3
+109,109,"Rua do Rio",3
+113,113,"Gramame",3
+116,116,"Colinas do Sul",3
+2501,2501,"Colinas do Sul - CEHAP",3
+1510,1510,"Circular",3
+5110,5110,"Circular",3
+A002,A002,"Alto Roger",3
+I005,I005,"Integração Colinas",3
+I009,I009,"Boa Esperança/Colinas do Sul II",3
+503,503,"Treze de Maio",3
+504,504,"Mandacaru",3
+505,505,"Bairro dos Ipês",3
+506,506,"Bairro dos Estados",3
+516,516,"Ilha do Bispo via Epitácio",3
+602,602,""Ilha do Bispo"",3
+604,604,"Bairro dos Ipês via Ayrton Senna",3
+1001,1001,"Bairro das Indústrias - Mandacaru",3
+003,003,"Jaguaribe",3
+401,401,"Altiplano",3
+507,507,"Cabo Branco",3
+509,509,"João Agripino",3
+512,512,"Bairro São José",3
+520,520,"Penha Altiplano",3
+507A,507A,"Cabo Branco/Penha/Jacarapé",3
+507B,507B,"Cabo Branco",3
+I007,I007,"Penha/Cabo Branco",3
+201,201,"Ceasa",3
+202,202,"Ernesto Geisel",3
+203,203,"Mangabeira",3
+204,204,"Cristo",3
+207,207,"Penha",3
+208,208,"Cristo-Vale das Palmeiras",3
+209,209,"Cidade Verde via Rangel",3
+301,301,"Mangabeira/ Pedro II",3
+302,302,"Cidade Verde",3
+303,303,"Mangabeira/ Pedro II",3
+304,304,"Castelo Branco /Pedro II",3
+500,500,"Tambaú",3
+510,510,"Tambaú via Tamandaré",3
+511,511,"Tambaú Rui Carneiro",3
+514,514,"Mangabeira VII",3
+517,517,"Castelo Branco",3
+601,601,"Bessa",3
+1500,1500,"Circular",3
+2307,2307,"Penha Rangel / Pedro II",3
+2514,2514,"Mangabeira",3
+3200,3200,"Circular",3
+3207,3207,"Penha Pedro II / Rangel",3
+3510,3510,"Bancários",3
+5100,5100,"Circular",3
+5204,5204,"Cristo Shopping",3
+5206,5206,"Mangabeira",3
+5310,5310,"Bancários",3
+I006,I006,"Anatólia",3
+104,104,"Bairro das Indústrias",3
+108,108,"Alto do Mateus",3
+110,110,"Jardim Planalto",3
+115,115,"Distrito",3
+118,118,"Paratibe",3
+120,120,"Mussumagro /Parque do Sol",3
+701,701,"Alto do Mateus- Acesso Oeste",3
+I101,I101,"Bairro das Indústrias/Mandacaru",3
+1502,1502,"Geisel / Alto do Mateus",3
+1519,1519,"Valentina/Cruz das Armas",3
+2300,2300,"Circular",3
+5120,5120,"Valentina/Epitácio",3
+7118,7118,"Mussumago",3
+7120,7120,"Mussumago",3
+I004,I004,"Valentina/Praia do Sol",3
+I008,I008,"Valentina / Mangabeira",3
+I009,I009,"Boa Esperança / Colinas do Sul II",3
+I012,I012,"Cidade Verde / Segunda Etapa",3
+101,101,"Grotão",3
+102,102,"Costa e Silva",3
+106,106,"Geisel via Cruz das Armas",3
+107,107,"Jose Américo",3
+114,114,"Grotão via Funcionários",3
+402,402,"Torre",3
+513,513,"Tambaú/Bessa",3
+521,521,"Bessa",3
+600,600,"Bessa Shopping",3
+603,603,"Bessa",3
+2515,2515,"Mangabeira",3
+3507,3507,"Cidade Verde",3
+5210,5210,"Mangabeira",3
+5307,5307,"Cidade Verde",3
+5600,5600,"Mangabeira - Shopping",3
+5603,5603,"Mangabeira VII",3
+5605,5605,"Mangabeira Shopping",3
+A101,A101,"Grotão João Paulo II",3
