@@ -1,5 +1,5 @@
 agency_id,agency_name,agency_url,agency_timezone
-1,Trans. Nacional,http://www.guiamais.com.br/local/transportes+nacional-transporte+rodoviario-joao+pessoa-pb-11127616-2,America/Recife
+1,Trans. Nacional,http://onibusbrasil.com/empresa/expresso-nacional-de-luxo/,America/Recife
 2,Santa Maria,http://onibusbrasil.com/empresa/santa-maria-transportes-e-fretamento/,America/Recife
 3,Unidas,http://www.apontador.com.br/local/pb/joao_pessoa/transporte/GG36DS22/unidas_transporte_e_turismo.html,America/Recife
 4,São Jorge,http://onibusbrasil.com/empresa/viacao-sao-jorge/,America/Recife
