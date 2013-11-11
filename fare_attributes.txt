@@ -1,0 +1,3 @@
+fare_id,price,currency_type,payment_method,transfers
+pago,2.20,BRL,0,1
+gratis,0.0,BRL,0,0
